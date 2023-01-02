@@ -8,7 +8,7 @@ android {
     compileSdk = 33
     defaultConfig {
         applicationId = "com.example.myfirstkmmapp.android"
-        minSdk = 33
+        minSdk = 31
         targetSdk = 33
         versionCode = 1
         versionName = "1.0"

@@ -71,7 +71,7 @@ android {
     namespace = "com.example.myfirstkmmapp"
     compileSdk = 33
     defaultConfig {
-        minSdk = 33
+        minSdk = 31
         targetSdk = 33
     }
 }
